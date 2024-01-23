@@ -63,6 +63,7 @@ header {
     .parallax {
     display:block;
       background-attachment: scroll;
+      height: 37vh;
     }
   }
 
